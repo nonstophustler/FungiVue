@@ -409,10 +409,7 @@ The Vue.js webapp is a single-page application (SPA) built with Vue 3, displayin
 Logs: Check `/var/log/nginx/error.log` or Python stdout.
 
 ## Examples and Demos
-
-- **Sample Output**: `docs/sample_scan.png` (simulated A-scan plot).
 - **Demo Video**: [Placeholder for YouTube link].
-- **Case Study**: 7-day oyster mushroom monitoring with 80% accurate growth predictions (based on sample data).
 
 ## Contributions
 
@@ -426,7 +423,7 @@ Follow code style: ESLint for JS, Black for Python. Use issue templates in repo.
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-Copyright (c) 2025 [Your Name or DeMoD LLC].
+Copyright (c) 2025 [DeMoD LLC].
 
 ## Acknowledgments
 
