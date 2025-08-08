@@ -9,7 +9,6 @@ An open-source, cost-efficient DIY kit for non-invasive ultrasound imaging of mu
 - **Innovation**: Multi-modal (ultrasound + bio-electric) with AI insights.
 - **Educational**: Teaches ultrasound, mycology, coding; great for STEM.
 
-For drop shipping: Use AliExpress/Oberlo for fulfillment; VPS-automate orders. Promote on Reddit/r/mycology.
 
 ## Materials (See docs/parts_list.md for details)
 - Raspberry Pi Zero 2W (x2): $30
