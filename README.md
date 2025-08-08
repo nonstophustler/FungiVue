@@ -1,7 +1,7 @@
 # FungiVue: Ultrasound Mushroom Growth Imaging Kit
 
 ## Overview
-An open-source, cost-efficient DIY kit for non-invasive ultrasound imaging of mushroom (mycelium) growth. Uses affordable hardware (<$200 wholesale via AliExpress) for educational biohacking. Ideal for drop shipping on Shopify—high margins (50-100%) with educational appeal. Integrates RPi Zero 2W duo-cluster, Arduino, transducers, and lightweight ML for growth predictions. MIT licensed for easy customization.
+An open-source, cost-efficient DIY kit for non-invasive ultrasound imaging of mushroom (mycelium) growth. Uses affordable hardware (<$200 wholesale via AliExpress) for educational biohacking. Integrates RPi Zero 2W duo-cluster, Arduino, transducers, and lightweight ML for growth predictions. MIT licensed for easy customization.
 
 **Key Benefits**:
 - **Cost Efficiency**: Bulk source parts for $150-180;
