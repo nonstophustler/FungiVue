@@ -1,6 +1,6 @@
 # FungiVue: Open-Source Ultrasound Mushroom Growth Imaging Kit
 
-![FungiVue Logo](https://www.publicdomainpictures.net/pictures/460000/velka/vintage-clipart-pilz-champion-1659350238qBl.png)
+![FungiVue Logo](https://www.publicdomainpictures.net/pictures/190000/velka/chibi-mushroom-vector.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/ALH477/FungiVue)
