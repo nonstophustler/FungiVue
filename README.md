@@ -4,7 +4,7 @@
 An open-source, cost-efficient DIY kit for non-invasive ultrasound imaging of mushroom (mycelium) growth. Uses affordable hardware (<$200 wholesale via AliExpress) for educational biohacking. Ideal for drop shipping on Shopify—high margins (50-100%) with educational appeal. Integrates RPi Zero 2W duo-cluster, Arduino, transducers, and lightweight ML for growth predictions. MIT licensed for easy customization.
 
 **Key Benefits**:
-- **Cost Efficiency**: Bulk source parts for $150-180; retail at $400+.
+- **Cost Efficiency**: Bulk source parts for $150-180;
 - **Modularity**: Grove connectors for plug-and-play; expandable (e.g., add cameras).
 - **Innovation**: Multi-modal (ultrasound + bio-electric) with AI insights.
 - **Educational**: Teaches ultrasound, mycology, coding; great for STEM.
